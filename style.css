@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap");
+
+body {
+  background-color: #d3d3d3;
+  font-family: Helvetica, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+.head1,
+.head2 {
+  text-transform: capitalize;
+  font-size: 100px;
+  line-height: 6;
+}
+
+.head1 {
+  color: #d3d3d3;
+  text-shadow: 1px 1px 15px #797979;
+}
+
+.head2 {
+  font-size: 150px;
+  color: #695309;
+
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.logo {
+  font-family: "Cormorant", serif;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  color: #695309;
+}
+
+.linkovi {
+  text-align: center;
+}
+
+.linkovi a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.about,
+.us {
+  line-height: 0;
+  font-size: 70px;
+  color: #695309;
+}
+
+.us {
+  color: black;
+  text-indent: 95px;
+}
+
+.sec1 {
+  text-align: left;
+  border-bottom: 1px solid #797979;
+}
+
+.sec1 h2 {
+  letter-spacing: -2px;
+  word-spacing: 5px;
+  font-size: 30px;
+}
+
+.sec1 p {
+  font-style: italic;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+
+.sec2 {
+  text-align: center;
+  border-bottom: 1px solid #797979;
+}
+
+.sec2 h2 {
+  text-transform: uppercase;
+  word-spacing: 8px;
+  letter-spacing: 5px;
+  color: #695309;
+  font-size: 40px;
+}
+
+.sec2 p {
+  letter-spacing: 5px;
+  font-size: 20px;
+}
+
+.sec3 {
+  text-align: right;
+}
+
+.sec3 h2 {
+  font-size: 35px;
+}
+
+.sec3 p {
+  font-size: 20px;
+  text-decoration: underline;
+  color: #695309;
+}
+
+.statistika {
+  text-align: center;
+}
+
+.statistika h2 {
+  color: #d3d3d3;
+  text-shadow: 2px 1px 15px #797979;
+  line-height: 1;
+  font-size: 100px;
+  letter-spacing: 20px;
+  text-transform: uppercase;
+}
+
+.prviRed {
+  text-align: center;
+  font-size: 85px;
+  word-spacing: 310px;
+  line-height: 0;
+  font-weight: bold;
+}
+
+.drugiRed {
+  font-size: 50px;
+  word-spacing: 196px;
+  line-height: 0;
+  font-style: italic;
+}
+
+.contact h1 {
+  font-size: 100px;
+  letter-spacing: -10px;
+  line-height: 0;
+}
+
+.contact p {
+  width: 700px;
+  text-align: justify;
+  text-indent: 50px;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
